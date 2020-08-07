@@ -11,6 +11,9 @@
 # production
 /build
 
+#npm lockfile
+package-lock.json
+
 # database
 /database/database.sqlite
 
